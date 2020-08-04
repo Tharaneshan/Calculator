@@ -1,17 +1,17 @@
 # Calculator
 Java code where you can do basic calculator functions with 2 or 4 different numbers. 
 
-/**
- * Tharaneshan Sivabalan
- */
+    /**
+     * Tharaneshan Sivabalan
+     */
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
-/**
- * Goes to calculator according to users input.
- * Pre:
- * Post: Calls the method.
- */
+    /**
+    * Goes to calculator according to users input.
+    * Pre:
+    * Post: Calls the method.
+    */
 
     public class Calculator {
      public static void main(String[]args){
@@ -27,11 +27,11 @@ import java.util.Scanner;
      }
     }
   
-/**
- * Recieves input and displays answer.
- * Pre:
- * Post: Displays answer.
- */
+    /**
+    * Recieves input and displays answer.
+    * Pre:
+    * Post: Displays answer.
+    */
   
     public static void normalCal() {
     
@@ -71,11 +71,11 @@ import java.util.Scanner;
         System.out.println("Thank you for using my calculator.");
       }
 
-/**
- * Recieves input and displays answer.
- * Pre:
- * Post: Displays answer.
- */
+    /**
+    * Recieves input and displays answer.
+    * Pre:
+    * Post: Displays answer.
+    */
   
     public static void fourCal() {
     
